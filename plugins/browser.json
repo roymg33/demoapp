@@ -1,0 +1,49 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "cordova-plugin-battery-status": {
+      "PACKAGE_NAME": "com.app2.Roy"
+    },
+    "cordova-plugin-camera": {
+      "PACKAGE_NAME": "com.app2.Roy"
+    },
+    "cordova-plugin-media-capture": {
+      "PACKAGE_NAME": "com.app2.Roy"
+    },
+    "cordova-plugin-device": {
+      "PACKAGE_NAME": "com.app2.Roy"
+    },
+    "cordova-plugin-dialogs": {
+      "PACKAGE_NAME": "com.app2.Roy"
+    },
+    "cordova-plugin-geolocation": {
+      "PACKAGE_NAME": "com.app2.Roy"
+    },
+    "cordova-plugin-globalization": {
+      "PACKAGE_NAME": "com.app2.Roy"
+    },
+    "cordova-plugin-inappbrowser": {
+      "PACKAGE_NAME": "com.app2.Roy"
+    },
+    "cordova-plugin-network-information": {
+      "PACKAGE_NAME": "com.app2.Roy"
+    },
+    "cordova-plugin-vibration": {
+      "PACKAGE_NAME": "com.app2.Roy"
+    }
+  },
+  "dependent_plugins": {
+    "cordova-plugin-compat": {
+      "PACKAGE_NAME": "com.app2.Roy"
+    },
+    "cordova-plugin-file": {
+      "PACKAGE_NAME": "com.app2.Roy"
+    }
+  }
+}
